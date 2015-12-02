@@ -22,3 +22,5 @@ $ learn -b # runs also in the browser
 
 - [W3Schools](http://www.w3schools.com/) - [If/Else Statements](http://www.w3schools.com/js/js_if_else.asp)
 - [W3Schools](http://www.w3schools.com/) - [Functions](http://www.w3schools.com/js/js_functions.asp)
+
+<a href='https://learn.co/lessons/js-speaking-grandma' data-visibility='hidden'>View this lesson on Learn.co</a>
